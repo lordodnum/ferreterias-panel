@@ -1,0 +1,5 @@
+{
+  "_nota": "Palabras clave propias por rubro. El panel las lee para resaltar y el script de vencimientos para alertar. Edite las listas a gusto.",
+  "ferreteria": ["ferretería", "herramientas", "tornillería", "pintura", "fierro", "cemento", "madera", "grifería", "iluminación"],
+  "tecnologia": ["software", "desarrollo", "licencia", "nube", "soporte TI", "ciberseguridad", "servidor", "redes", "base de datos"]
+}
